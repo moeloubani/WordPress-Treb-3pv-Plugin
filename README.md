@@ -1,4 +1,4 @@
-# WordPress-Treb-3pv-Plugin
+# WordPress TREB 3pv Plugin
 WordPress plugin for the TREB using their 3pv system instead of the RETS system.
 
 This plugin is like my other one but is meant as a solution to those using the 3pv system instead of the RETS system which I hear requires less paperwork.
