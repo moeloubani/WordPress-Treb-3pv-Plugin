@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WP Trebs Data
-Plugin URI: http://www.moeloubani.com/wp-trebs-3pv-wordpress-plugin
+Plugin URI: http://www.moeloubani.com/wordpress-treb-3pv-plugin
 Description: A WordPress plugin to use to import property data from Treb Data URL
 Version: 1.0
 Author: Moe Loubani
